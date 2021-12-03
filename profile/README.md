@@ -1,3 +1,3 @@
 ## Welcome 👋
-![Intro](/profile/FoC.png)
+![Intro](/profile/FoC2.png)
 ![Views](/profile/FoC.gif)
