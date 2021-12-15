@@ -1,4 +1,10 @@
-## Welcome 👋
+
+<h1 align="center" style="border-bottom: none">
+    <b>
+       ⭐️ Under Active Development ⭐️
+    </b>
+</h1>
+
 ![Intro](/profile/FoC2.gif)
 
 **A digital nerve center of collaboration, knowledge management, learning and productivity. Designed to provide omni-channel environments for real time communication, interaction, discussion and publication using recent advances in modern digital technologies. The focus towards which the unifying forces of decentralised networks and digital experiences will converge and from which its energizing influences will radiate. Inspired by previous work in Discourse, StackOverflow, Notion, Slack, Discord**
