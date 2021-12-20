@@ -16,3 +16,4 @@
     - Browse networks, content and digital environments in 2D and 3D  
     - Chat via message, audio, video and virtual. 
     - Host voice, video and virtual events, conferences and gatherings.
+    - Publish experiences and content for Web3.
