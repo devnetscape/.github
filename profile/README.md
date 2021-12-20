@@ -11,4 +11,8 @@
 
  1. Channel Server - Omni Channels, Servers and Communities 
  2. Communication Server - Real time chat, knowledge management and collaboration platform.
- 3. User Platform - Create tools and enviroments for consultation, learning and work. Browse networks and content, chat via message, audio, video and virtual. Host voice/video/virtual conferences. 
+ 3. User Platform
+    - Create tools, social enviroments and spaces for collaboration, interaction, learning and work. 
+    - Browse networks, content and digital environments in 2D and 3D  
+    - Chat via message, audio, video and virtual. 
+    - Host voice, video and virtual events, conferences and gatherings.
