@@ -1,4 +1,4 @@
-# Revolt
+# Simtropolis
 
 This repository is used [for discussions](https://github.com/simtropolis/.github/discussions) (feature suggestions, questions and any general talk) and also contains information for GitHub labels.
 
