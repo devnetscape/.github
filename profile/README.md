@@ -16,4 +16,4 @@
     - Browse networks, content and digital environments in 2D and 3D  
     - Chat via message, audio, video and virtual. 
     - Host voice, video and virtual events, conferences and gatherings.
-    - Create and Publish interactive applications, experiences, publications, games, animations, bots, applets and content for the Web.
+    - Create and publish interactive applications, experiences, publications, games, animations, bots, applets and content for the Web.
